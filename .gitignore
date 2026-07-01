@@ -1,0 +1,11 @@
+.DS_Store
+.env
+*.env
+.agents-cli-spec.md
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
